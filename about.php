@@ -30,7 +30,7 @@ passenger to choose.
 </p>
 
 <p>
-Do remember, our bus terminal is always your best choice to choose ! </p>
+Do remember, our bus terminal is always your best choice to choose yyy ! </p>
 </div>
     </div>
 	
