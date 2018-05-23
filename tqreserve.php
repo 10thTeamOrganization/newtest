@@ -19,7 +19,7 @@
 <form class="smart-green">
 
 <h1>Thank You For Choosing Our Hotel</h1>
-<label>We have received your reservation information. Please check your email for receipt.</label>
+<label>We have received your reservation information. Please check your email for receipt</label>
 <br>
 
 
